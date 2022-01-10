@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/mello/Desktop/studies/blockchain/target/debug/build/typenum-12f44e60d4900b3c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/mello/Desktop/studies/blockchain/target/debug/build/typenum-12f44e60d4900b3c/out/op.rs
